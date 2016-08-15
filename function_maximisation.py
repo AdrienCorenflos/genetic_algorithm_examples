@@ -1,4 +1,4 @@
-from .genetic_algorithm import *
+from genetic_algorithm import *
 
 
 class Max2DFunction(GeneticAlgorithm):

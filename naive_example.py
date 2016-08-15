@@ -1,4 +1,6 @@
-from .genetic_algorithm import *
+import numpy as np
+from numpy import random
+from genetic_algorithm import *
 
 
 class TargetSumGenetic(GeneticAlgorithm):
